@@ -12,5 +12,7 @@ namespace dotnet1.Models
         public string UserLastname { get; set; }
         public string UserEmail { get; set; }
         public string UserTelephone { get; set; }
+        public string IS_DELETE{ get; set; }
+
     }
 }
